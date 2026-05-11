@@ -18,3 +18,6 @@ Projeto desenvolvido durante o curso de HTML5 e CSS3 do **CURSO EM VÍDEO - Gust
 [Clique aqui para acessar o site](https://marlondarocha.github.io/projeto-android/)
 
 :rotating_light: **PROJETO REALIZADO PARA O ESTUDO E PRÁTICA DO DESENVOLVIMENTO WEB!**
+
+## 📃DESAFIOS SUPERADOS:
+**Melhor utilização e organização na semântica e estilização, maior entendimento de Media Queries e uma compreensão maior na aplicação em dispositivos móveis.**
