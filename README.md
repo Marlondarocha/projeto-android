@@ -3,8 +3,8 @@
 Projeto desenvolvido durante o curso de HTML5 e CSS3 do **CURSO EM VÍDEO - Gustavo guanabara**. O objetivo é colocar em prática os fundamentos da **responsividade** e a utilização de **interfaces para dispositivos móveis**.
 
 ## :computer: Tecnologias e conceitos aplicados:
-**HTML** e **CSS**: utilização semântica e estilização moderna.
-**Design responsivo**: uso de Media Queries em diferentes telas.
+**HTML** e **CSS**: utilização semântica e estilização moderna. \
+**Design responsivo**: uso de Media Queries em diferentes telas. \
 **Mobile first**: Foco no desenvolvimento em dispositivos móveis.
 
 ## :framed_picture: Imagem
@@ -17,4 +17,4 @@ Projeto desenvolvido durante o curso de HTML5 e CSS3 do **CURSO EM VÍDEO - Gust
 :paperclip: Link do projeto
 [Clique aqui para acessar o site](https://marlondarocha.github.io/projeto-android/)
 
-:rotating_light: **PROJETO REALIZADO PARA O ESTUDO E PRÁTICA DO DESENVOLVIMENTO WEB**
+:rotating_light: **PROJETO REALIZADO PARA O ESTUDO E PRÁTICA DO DESENVOLVIMENTO WEB!**
